@@ -1,0 +1,15 @@
+{
+    "name": "WebJsCep",
+    "version": "1.0.0",
+    "type": "module",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "RedGO",
+    "contributors": [],
+    "dependencies": {}
+}
